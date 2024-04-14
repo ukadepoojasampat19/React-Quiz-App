@@ -47,10 +47,10 @@
     font-size: 18px;
 }
 .correct  {
-    background-color: #dffff2;
-    border-color: #00d397;
+    background-color: #99f4cf;
+    border-color: #29fabf;
 }
 .wrong  {
-    background-color: #ffebeb;
-    border-color: #ff4a4a;
+    background-color: #f9c8c8;
+    border-color: #f03535;
 }
