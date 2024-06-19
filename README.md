@@ -18,6 +18,7 @@ You can see a live demo [here](https://example.com).
 
 ### Steps
 Clone the repository:
+```bash
 git clone https://github.com/yourusername/react-quiz-app.git
 cd react-quiz-app
   
